@@ -1,0 +1,72 @@
+[
+	{
+		"spid": 101000001,
+		"name": "데이비드 시먼",
+		"present price": "519,000,000 BP",
+		"highest price": "846,100,000 BP",
+		"lowest price": "471,180,000 BP"
+	},
+	{
+		"spid": 101000195,
+		"name": "로비 파울러",
+		"present price": "705,000,000 BP",
+		"highest price": "1,032,600,000 BP",
+		"lowest price": "695,270,000 BP"
+	},
+	{
+		"spid": 101000244,
+		"name": "게리 네빌",
+		"present price": "971,000,000 BP",
+		"highest price": "2,721,820,000 BP",
+		"lowest price": "998,910,000 BP"
+	},
+	{
+		"spid": 101000388,
+		"name": "솔 캠벨",
+		"present price": "4,220,000,000 BP",
+		"highest price": "5,586,000,000 BP",
+		"lowest price": "3,400,000,000 BP"
+	},
+	{
+		"spid": 101000393,
+		"name": "테디 셰링엄",
+		"present price": "591,000,000 BP",
+		"highest price": "877,400,000 BP",
+		"lowest price": "594,550,000 BP"
+	},
+	{
+		"spid": 101000570,
+		"name": "J. 오코차",
+		"present price": "1,540,000,000 BP",
+		"highest price": "2,434,550,000 BP",
+		"lowest price": "1,490,000,000 BP"
+	},
+	{
+		"spid": 101000805,
+		"name": "옌스 레만",
+		"present price": "1,730,000,000 BP",
+		"highest price": "1,987,270,000 BP",
+		"lowest price": "1,590,000,000 BP"
+	},
+	{
+		"spid": 101001040,
+		"name": "호베르투 카를루스",
+		"present price": "3,240,000,000 BP",
+		"highest price": "4,295,450,000 BP",
+		"lowest price": "3,224,550,000 BP"
+	},
+	{
+		"spid": 101001075,
+		"name": "A. 델피에로",
+		"present price": "4,700,000,000 BP",
+		"highest price": "6,398,180,000 BP",
+		"lowest price": "4,742,730,000 BP"
+	},
+	{
+		"spid": 101001114,
+		"name": "로베르토 바조",
+		"present price": "4,290,000,000 BP",
+		"highest price": "5,245,450,000 BP",
+		"lowest price": "4,318,180,000 BP"
+	}
+]

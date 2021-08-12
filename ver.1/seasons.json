@@ -1,0 +1,130 @@
+[
+	{
+		"id": 101,
+		"season": "ICON"
+	},
+	{
+		"id": 201,
+		"season": "NHD"
+	},
+	{
+		"id": 202,
+		"season": "TKI"
+	},
+	{
+		"id": 206,
+		"season": "TB"
+	},
+	{
+		"id": 207,
+		"season": "TT"
+	},
+	{
+		"id": 210,
+		"season": "GR"
+	},
+	{
+		"id": 211,
+		"season": "19TOTY"
+	},
+	{
+		"id": 212,
+		"season": "18TOTY"
+	},
+	{
+		"id": 213,
+		"season": "MCICON"
+	},
+	{
+		"id": 214,
+		"season": "TC"
+	},
+	{
+		"id": 215,
+		"season": "19TOTS"
+	},
+	{
+		"id": 216,
+		"season": "HOT"
+	},
+	{
+		"id": 217,
+		"season": "COC"
+	},
+	{
+		"id": 218,
+		"season": "OTW"
+	},
+	{
+		"id": 219,
+		"season": "NG"
+	},
+	{
+		"id": 220,
+		"season": "20TOTY"
+	},
+	{
+		"id": 221,
+		"season": "19UCL"
+	},
+	{
+		"id": 222,
+		"season": "20TOTN"
+	},
+	{
+		"id": 225,
+		"season": "TKL"
+	},
+	{
+		"id": 230,
+		"season": "20TOTS"
+	},
+	{
+		"id": 234,
+		"season": "LH"
+	},
+	{
+		"id": 295,
+		"season": "2019KFA"
+	},
+	{
+		"id": 297,
+		"season": "MCFC"
+	},
+	{
+		"id": 298,
+		"season": "KFA"
+	},
+	{
+		"id": 300,
+		"season": "LIVE"
+	},
+	{
+		"id": 317,
+		"season": "17"
+	},
+	{
+		"id": 318,
+		"season": "18"
+	},
+	{
+		"id": 500,
+		"season": "PLC"
+	},
+	{
+		"id": 501,
+		"season": "18PLS"
+	},
+	{
+		"id": 502,
+		"season": "19PLA"
+	},
+	{
+		"id": 503,
+		"season": "19PLS"
+	},
+	{
+		"id": 504,
+		"season": "20KL"
+	}
+]
