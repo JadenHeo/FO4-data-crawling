@@ -7,7 +7,7 @@ from multiprocessing import Pool
 
 def get_player_price(spid):
     price = {'spid' : spid}
-    url = 'http://fifaonline4.nexon.com/datacenter/PlayerPriceGraph'
+    url = 'https://fifaonline4.nexon.com/datacenter/PlayerPriceGraph'
     price_selector = 'strong'
     CURRENT, MAX, MIN = 0, 1, 2
     for strong in range(1, 11):
